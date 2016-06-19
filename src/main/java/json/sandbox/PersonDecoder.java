@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package json;
+package json.sandbox;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
